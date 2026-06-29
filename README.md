@@ -5,7 +5,7 @@ This repository contains all the experiments corresponding to the research proje
 
 This repository is organised into two main parts: synthetic 2D toy experiments and CIFAR-10 experiments.
 
-
+```text
 .
 ├── a_ToyExampleFM.py
 ├── b_LyaGuideToyExample.py
@@ -26,3 +26,4 @@ This repository is organised into two main parts: synthetic 2D toy experiments a
 │   ├── outputs/
 │   └── src/
 └── venvFMDM/
+
